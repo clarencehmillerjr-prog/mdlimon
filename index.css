@@ -1,0 +1,20 @@
+:root {
+  color-scheme: dark;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
